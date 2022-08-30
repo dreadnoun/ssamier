@@ -1,0 +1,150 @@
+@media screen and (max-width:1500px) {
+#table {
+    padding: 25px;
+    margin-left: 320px;
+    margin-right: 380px;
+    margin-top: 170px;
+    background-color: #fff;
+    padding-top: 30px;
+}
+body {
+    background-image: url(https://corpcomputersonline.com/wp-content/uploads/2017/05/web-designer-pune-background.jpg);
+}
+thead {
+    background-color: rgb(87, 151, 224);
+}
+table, th {
+    border-collapse: collapse;
+    border: none;
+}
+.td1 {
+    padding-left: 45px;
+    padding-right: 25px;
+    padding-top: 7px;
+}
+th {
+    padding-left: 45px;
+    padding-right: 25px;
+}
+td {
+    padding-top: 7px;
+}
+h1 {
+    font-size: 27px;
+    margin-left: 94px;
+}
+}
+@media screen and (max-width:1024px) {
+    #table {
+        padding: 25px;
+        margin-left: 320px;
+        margin-right: 380px;
+        margin-top: 170px;
+        background-color: #fff;
+        padding-top: 30px;
+    }
+    body {
+        background-image: url(https://corpcomputersonline.com/wp-content/uploads/2017/05/web-designer-pune-background.jpg);
+    }
+    thead {
+        background-color: rgb(87, 151, 224);
+    }
+    table, th {
+        border-collapse: collapse;
+        border: none;
+    }
+    .td1 {
+        padding-left: 45px;
+        padding-right: 25px;
+        padding-top: 7px;
+    }
+    th {
+        padding-left: 45px;
+        padding-right: 25px;
+    }
+    td {
+        padding-top: 7px;
+    }
+    h1 {
+        font-size: 27px;
+        margin-left: 94px;
+    }
+    }
+    @media screen and (max-width: 500px) {
+        #table {
+            margin-left: 30px;
+            margin-right: 100px;
+            margin-top: 200px;
+            background-color: #fff;
+            padding-top: 30px;
+            padding-left: 15px;
+        }
+        body {
+            background-image: url('./background/backfon.jpg');
+        }
+        thead {
+            background-color: rgb(87, 151, 224);
+        }
+        table, th {
+            border-collapse: collapse;
+            border: none;
+        }
+        .td1 {
+            padding-left: 20px;
+            padding-right: 24px;
+            padding-top: 7px;
+        }
+        th {
+            padding-left: 20px;
+            padding-right:17px;
+            font-size: 5px;
+        }
+        td {
+            padding-top: 3px;
+            font-size: 10px;
+        }
+        h1 {
+            font-size:10px;
+            margin-left: 94px;
+        }
+        }
+        @media screen and (max-width: 420px) {
+            #table {
+                margin-left: 30px;
+                margin-right: 100px;
+                margin-top: 200px;
+                background-color: #fff;
+                padding-top: 30px;
+                padding-left: 15px;
+            }
+            body {
+                background-image: url('https://images.saymedia-content.com/.image/t_share/MTc4NzM1OTc4MzE0MzQzOTM1/how-to-create-cool-website-backgrounds-the-ultimate-guide.png');
+            }
+            thead {
+                background-color: rgb(87, 151, 224);
+            }
+            table, th {
+                border-collapse: collapse;
+                border: none;
+            }
+            .td1 {
+                padding-left: 8px;
+                padding-right: 14px;
+                padding-top: 7px;
+            }
+            th {
+                padding-left: 10px;
+                padding-right:6px;
+                font-size: 5px;
+            }
+            td {
+                padding-top: 3px;
+                font-size: 10px;
+            }
+            h1 {
+                font-size:8px;
+                margin-left: 54px;
+            }
+            }
+        
+    
